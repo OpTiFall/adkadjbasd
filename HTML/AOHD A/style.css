@@ -1,0 +1,58 @@
+body{
+    margin: 0 auto;
+}
+
+video{
+    width: 100%;
+    position: relative;
+    top: 0px;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    font-size: 35px;
+    vertical-align: text-top;
+}
+
+nav img{
+    height:40px;
+}
+
+a:active, a:visited, a
+{
+    color:white;
+}
+
+#napis{
+    margin: 20% 10%; padding: 10px; color: white;
+    background-color: black; border-radius:  19px;
+    opacity: 0.5;
+}
+
+#srodek{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    z-index: -10;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background-color: black;
+    color:white;
+}
+#mapaZOO{
+    margin: 20% 10%; padding: 10px; color: white;
+    background-color: black; border-radius:  19px;
+}
+#button
+{
+    margin: 20% 10%; padding: 10px; color: white;
+    background-color: black; border-radius:  19px;
+    text-align: center;
+    font-size: 80px;
+}

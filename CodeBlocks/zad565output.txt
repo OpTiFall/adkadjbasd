@@ -1,0 +1,8 @@
+Min: 36 Max: 99978
+Mediana: 49863
+Średnia: 50176.95
+Najbliższa średniej: 50289
+Ilość liczb pierwszych: 106
+NWD: 74277
+NWD: 62487
+Ich NWD jest równe 1179

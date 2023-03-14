@@ -1,0 +1,5 @@
+Ilość parzystych par liczb: 263
+Ilość par, w których pierwsza liczba jest pierwsza od drugiej: 528
+Ilość par, w których jedna liczba jest wielokrotnością drugiej: 479
+Ilość par liczb względnie pierwszych: 584
+Ilość par liczb, których suma cyfr jest równa: 48
